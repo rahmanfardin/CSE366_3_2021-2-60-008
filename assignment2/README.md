@@ -6,11 +6,17 @@ Here I have used Genetical Algorithm to find the optimal solution.
 
 Variables: task_durations, task_priorities, robot_efficiencies are set at random You can go and change the generate_mock_data method for appropriate result.
 
+## Genetical Algorithm
+
+  1. Initial Population: set at random
+  2. Selection: tournament selection is implemented
+  3. Crossover: crossover points are set at random
+  4. Mutation: Mutations at the offspring are random and values are (0 - num_robots)
 
 ## Authors
 
 - [github@rahmanFardin](https://www.github.com/rahmanFardin)
-- [instagram@neutron_slayer](https://www.github.com/neutron_slayer)
+- [instagram@neutron_slayer](https://www.instagram.com/neutron_slayer)
 
 
 ## Run Locally
