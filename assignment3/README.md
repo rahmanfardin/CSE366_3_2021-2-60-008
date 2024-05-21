@@ -1,5 +1,5 @@
 
-# ROBOT SCHEDULER 
+# Model Train on CoLeaf DATASET 
 
 Two models have been trained. ResNet50 and CNN. 
 
